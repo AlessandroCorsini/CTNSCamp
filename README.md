@@ -21,7 +21,7 @@ From November 2024 to October 2025
 - Course: 2 days a week. 1 hour per day : 6-7 pm
 - Project: 4/5 full days (Saturdays). One day every 2/3 months.
 
-## References
+## Bibliography
 - Schneider, Lee, Mathis, 2023. Learnable latent embeddings for joint behavioral and neural analysis.
 - Millet, Caucheteux, Orhan, Boubenec, Gramfort, Dunbar, Pallier, and King, 2022. Toward a realistic model of speech processing in the brain with self supervised learning.
 - Hickok and Poeppel, 2007. The cortical organization of speech processing.
