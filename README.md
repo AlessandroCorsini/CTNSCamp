@@ -24,6 +24,6 @@ From November 2024 to October 2025
 ## References
 - Schneider, Lee, Mathis, 2023. Learnable latent embeddings for joint behavioral and neural analysis.
 - Millet, Caucheteux, Orhan, Boubenec, Gramfort, Dunbar, Pallier, and King, 2022. Toward a realistic model of speech processing in the brain with self supervised learning.
-- Hickok and G, 2007. The cortical organization of speech processing.
+- Hickok and Poeppel, 2007. The cortical organization of speech processing.
 - Perkell, Matthies, Lane, Guenther, Wilhelms-Tricarico, Wozniak, Guiod, 1997. Speech motor control: Acoustic goals, saturation effects, auditory feedback and internal models.
 - Guenther, 1994. Speech sound acquisition, coarticulation, and rate effects in a neural network model of speech production.
